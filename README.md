@@ -1,2 +1,3 @@
 # maxdev-linux
-This repo is for managing linux commands
+This repo is for managing linux commands ok
+

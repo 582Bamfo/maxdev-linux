@@ -7,3 +7,9 @@ cat /tmp/testdir/hello.txt
 ls -la /tmp/testdir
 cd /tmp/testdir
 cd ..   
+head
+grep "Hello" /tmp/testdir/hello.txt
+tail /tmp/testdir/hello.txt
+nano /tmp/testdir/hello.txt
+uname -a
+man
