@@ -13,3 +13,6 @@ tail /tmp/testdir/hello.txt
 nano /tmp/testdir/hello.txt
 uname -a
 man
+git --version
+git init /tmp/testdir
+git add /tmp/testdir/hello.txt
