@@ -15,3 +15,5 @@ uname -a
 man
 git init /tmp/testdir
 git add /tmp/testdir/hello.txt
+git --version
+git add /tmp/testdir/hello.txt
