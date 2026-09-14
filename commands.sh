@@ -15,3 +15,9 @@ uname -a
 man
 git init /tmp/testdir
 git add /tmp/testdir/hello.txt
+git commit -m "Save changes to commands.sh"
+git switch main
+git branch -d testbranch        
+git status
+git push origin main
+git pull origin main
